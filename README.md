@@ -1,6 +1,4 @@
-# ADM-HW2-Group-3
 
-This is the Homework 2 submission for Group 3
 
 In the main folder there are:
 
